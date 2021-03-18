@@ -7,8 +7,30 @@
   "icon": "/favicon/android-chrome-192x192.png",
   "animated_background": false,
   "order": [
+    "11.3.21",
+    "graine",
+    "bulots"
   ],
   "songs": {
+    "11.3.21": {
+      "text": "11.3.21",
+      "duration" : "5:34",
+      "listen": [
+        {
+          "url": "https://soundcloud.com/eric-mugnier/onzetroisvingtetunmp3",
+          "id": "1005419122"
+        }
+      ]
+    },
+    "graine": {
+      "text": "Mauvaise Graine",
+      "duration": "acryl/toile",
+      "link": "https://www.facebook.com/photo?fbid=10212698438232993"
+    },
+    "bulots": {
+      "text": "ELLE, fronçant les sourcils (…)",
+      "markdown": "_"
+    },
     "qwe": {
       "text": "asd",
       "link": ""

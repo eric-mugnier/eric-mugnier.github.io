@@ -6,7 +6,7 @@
   "brandlink": "#",
   "icon": "/favicon/android-chrome-192x192.png",
   "animated_background": false,
-  "order": ["11.3.21", "graine", "bulots"],
+  "order": ["11.3.21", "18.3.21", "graine", "bulots"],
   "songs": {
     "11.3.21": {
       "text": "11.3.21",
@@ -16,6 +16,17 @@
         {
           "url": "https://soundcloud.com/eric-mugnier/onzetroisvingtetunmp3",
           "id": "1005419122"
+        }
+      ]
+    },
+    "18.3.21": {
+      "text": "18.3.21",
+      "duration": "5:08",
+      "extension": ".svg",
+      "listen": [
+        {
+          "url": "https://soundcloud.com/eric-mugnier/18troismp3",
+          "id": "1010357185"
         }
       ]
     },

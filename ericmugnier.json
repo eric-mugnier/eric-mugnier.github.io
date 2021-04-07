@@ -4,7 +4,7 @@
   "covers": "ericmugnier",
   "navbarheader": "/header.html",
   "brandlink": "#",
-  "icon": "/favicon/android-chrome-192x192.png",
+  "brandLogo": "/favicon/android-chrome-192x192.png",
   "animated_background": false,
   "order": ["11.3.21", "18.3.21", "graine", "bulots"],
   "songs": {
